@@ -104,7 +104,7 @@ My tech interests span a wide range, but I find particular joy in full-stack dev
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp-sandeshpokhrel&show_icons=true&theme=dark&locale=en&layout=compact" alt="sp-sandeshpokhrel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sp-sandeshpokhrel&show_icons=true&theme=dark&locale=en" alt="sp-sandeshpokhrel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp-sandeshpokhrel&theme=dark" alt="sp-sandeshpokhrel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=sp-sandeshpokhrel&theme=dark" alt="sp-sandeshpokhrel" /></p>
 
 <!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=aarif123456.aarif123456&color=00cf00&style=for-the-badge)  -->
 
